@@ -1,1 +1,1 @@
-D:\rust\learning-with-book\projects\jeu_du_plus_ou_du_moins\target\debug\jeu_du_plus_ou_du_moins.exe: D:\rust\learning-with-book\projects\jeu_du_plus_ou_du_moins\src\main.rs
+/Users/alainkelleter/Library/CloudStorage/ProtonDrive-alain@alainkelleter.be-folder/08.DEV/Language/RUST/learning-with-book/projects/jeu_du_plus_ou_du_moins/target/debug/jeu_du_plus_ou_du_moins: /Users/alainkelleter/Library/CloudStorage/ProtonDrive-alain@alainkelleter.be-folder/08.DEV/Language/RUST/learning-with-book/projects/jeu_du_plus_ou_du_moins/src/main.rs

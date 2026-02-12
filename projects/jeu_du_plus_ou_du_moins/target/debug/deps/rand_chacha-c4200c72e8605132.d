@@ -1,0 +1,7 @@
+/Users/alainkelleter/Library/CloudStorage/ProtonDrive-alain@alainkelleter.be-folder/08.DEV/Language/RUST/learning-with-book/projects/jeu_du_plus_ou_du_moins/target/debug/deps/rand_chacha-c4200c72e8605132.d: /Users/alainkelleter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.3.1/src/lib.rs /Users/alainkelleter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.3.1/src/chacha.rs /Users/alainkelleter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.3.1/src/guts.rs
+
+/Users/alainkelleter/Library/CloudStorage/ProtonDrive-alain@alainkelleter.be-folder/08.DEV/Language/RUST/learning-with-book/projects/jeu_du_plus_ou_du_moins/target/debug/deps/librand_chacha-c4200c72e8605132.rmeta: /Users/alainkelleter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.3.1/src/lib.rs /Users/alainkelleter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.3.1/src/chacha.rs /Users/alainkelleter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.3.1/src/guts.rs
+
+/Users/alainkelleter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.3.1/src/lib.rs:
+/Users/alainkelleter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.3.1/src/chacha.rs:
+/Users/alainkelleter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.3.1/src/guts.rs:
