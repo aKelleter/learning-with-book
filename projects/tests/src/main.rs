@@ -1,6 +1,10 @@
 // Je voudrais écrire une fonction qui calcile la moyenne de plusieurs nombres.
 
 fn moyenne(numbers: &[f64]) -> f64 {
+   // Vérifier que le tableau n'est pas vide pour éviter une division par zéro
+    if numbers.is_empty() {
+        return 0.0; // ou vous pouvez choisir de retourner une valeur spéciale ou de lancer une erreur
+    }
     let sum: f64 = numbers.iter().sum();
     sum / numbers.len() as f64
 }
